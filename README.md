@@ -31,8 +31,8 @@ If you prefer to set up the environment manually or are using **Linux/macOS**:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
-    cd YOUR_REPO_NAME
+    git clone [https://github.com/jt-labs-pt/WebAuditPro.git](https://github.com/jt-labs-pt/WebAuditPro.git)
+    cd WebAuditPro
     ```
 
 2.  **Create and activate a virtual environment:**
@@ -51,7 +51,7 @@ If you prefer to set up the environment manually or are using **Linux/macOS**:
 
 4.  **Run the app:**
     ```bash
-    python your_script_name.py
+    python webaudit.py
     ```
 
 ---
