@@ -46,7 +46,7 @@ pip install python-whois requests beautifulsoup4 --quiet
 echo [SYSTEM] Starting your application...
 echo ----------------------------------------------------
 :: Replace 'o_teu_script.py' with your actual filename
-python o_teu_script.py
+python webaudit.py
 echo ----------------------------------------------------
 echo App closed.
 pause
